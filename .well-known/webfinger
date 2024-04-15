@@ -1,0 +1,1 @@
+{"subject":"acct:wdsouth@plasmatrap.com","links":[{"rel":"self","type":"application/activity+json","href":"https://plasmatrap.com/users/9s4d1wv5b6"},{"rel":"http://webfinger.net/rel/profile-page","type":"text/html","href":"https://plasmatrap.com/@wdsouth"},{"rel":"http://ostatus.org/schema/1.0/subscribe","template":"https://plasmatrap.com/authorize-follow?acct={uri}"}]}
