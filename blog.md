@@ -1,9 +1,3 @@
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-[Home](README.md)
+    [First post!?](/posts/42524.md)
+    
