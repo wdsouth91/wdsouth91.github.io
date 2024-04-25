@@ -1,3 +1,2 @@
 <ul>
-    [First post!?](/posts/42524.md)
-    
+    [First post!?](/posts/42524.txt)
