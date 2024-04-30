@@ -9,3 +9,5 @@ This is the writing portfolio of WD South. Below, you will find various examples
 # Scripts/screenplays
 
 # Short fiction
+
+# blog posts
