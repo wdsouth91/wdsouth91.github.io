@@ -1,5 +1,13 @@
 title: "WD South"
 description: "Online Writing Portfolio"
+# Site settings
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
+
+# add includes, remote themes, plugins here.
 include: [".well-known"]
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
