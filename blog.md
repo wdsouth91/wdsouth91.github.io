@@ -1,6 +1,6 @@
 # Recent Posts
 
-* [First post](_/posts/2024-05-01-FirstPost.md) on 1 May 2024
+* [First post](_posts/2024-05-01-FirstPost.md) on 1 May 2024
 * 
 * 
 * 
