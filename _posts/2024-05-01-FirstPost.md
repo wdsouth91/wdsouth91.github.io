@@ -4,6 +4,7 @@ title: First blog post!
 date: 2024-05-01
 author: w.d. south
 category: update
+tag: blog
 ---
 
 How in the world is it already May? I swear every time I turn around it's already been several weeks and I haven't accomplished much! Man, anyway, I'm hoping that this new website/blog sticks because I'm tired of all the other social blogging platforms. (Except for my beloved PlasmaTrap, it can do no wrong) Everyone seems so intent on making everything suck for writers. I suppose it's only a matter of time before we end up back on the early days of the internet. I wonder if there's a law of psychology or technology that holds true that the internet will return to its beginnings the long way around. 
@@ -13,4 +14,3 @@ I am going to be posting more fiction here too, and sharing other documents and 
 Stay well!
 
 \- Will
-
