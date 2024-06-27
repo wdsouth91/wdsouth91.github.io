@@ -12,7 +12,3 @@ include: [".well-known"]
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # adds remote themes.
-- jekyll-feed # atom (rss-like) feed generator. 
-- jekyll-paginate #pagination plugin.
-- jekyll-seo-tag  #SEO for tags.
-- jekyll-sitemap #Generate site-map.  
