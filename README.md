@@ -4,3 +4,9 @@
 # Welcome
 
 This is the writing archive of WD South. Writing projects will be released here in ePub format as they become available and within github hosting limitations. 
+
+* Novels (Coming soon)
+
+* Short Stories (Coming soon)
+
+* Scripts (Coming soon)
