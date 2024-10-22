@@ -1,3 +1,0 @@
-# Short Fiction
-
-Coming soon
