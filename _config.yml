@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 include:
 - ".well-known"
-=======
-include:
-- ".well-known"
->>>>>>> e87554e75ad3d542bc632d8f59de1bc11692f67c
