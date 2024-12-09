@@ -2,7 +2,7 @@
 
 > Writing coming soon! I have been hard at work and I'll have oodles of stuff flowing out to this website soon!
 
-# 
+# Stories
 
 # Blog
 
